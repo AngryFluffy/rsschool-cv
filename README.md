@@ -1,1 +1,1 @@
-# rsschool-cv
+https://angryfluffy.github.io/rsschool-cv/cv
