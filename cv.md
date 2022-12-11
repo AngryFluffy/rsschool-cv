@@ -1,6 +1,6 @@
 Бойченко Сергей
 boichenkosergei@gmail.com
-Хочу попробовать что-то новое
+Хочу попробовать что-то новое. Любознательный
 Навыки отстутсвуют :)
 class HelloWorld {
     public static void main(String[] args) {
