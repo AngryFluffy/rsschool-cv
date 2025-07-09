@@ -4,19 +4,19 @@
 * *[My GitHub profile](https://github.com/AngryFluffy)*
 * *boichenkosergei@gmail.com*
 
-## I want to learn a new profession. There is a desire to learn and learn something new.
+# I want to learn a new profession. There is a desire to learn and learn something new.
 
-## I don't know any programming languages.
+# I don't know any programming languages.
 
-## Сode example.
+# Сode example.
 ```
 function multiply(a, b){
 return  a * b
 }
 ```
 
-## [My CV.](https://github.com/AngryFluffy/rsschool-cv/blob/gh-pages/cv.md)
+# [My CV.](https://github.com/AngryFluffy/rsschool-cv/blob/gh-pages/cv.md)
 
-## Higher technical education in automotive engineering.
+# Higher technical education in automotive engineering.
 
-## English: A2 Pre-intermediate.
+# English: A2 Pre-intermediate.
