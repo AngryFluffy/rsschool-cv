@@ -1,15 +1,16 @@
 ## Sergei Boichenko <h2>
 
-*Discord: @angry_fluffy*
-*[My GitHub profile](https://github.com/AngryFluffy)*
-*boichenkosergei@gmail.com*
+* *Discord: @angry_fluffy*
+* *[My GitHub profile](https://github.com/AngryFluffy)*
+* *boichenkosergei@gmail.com*
 
 ## I want to learn a new profession. There is a desire to learn and learn something new. <h1>
 
 ## I don't know any programming languages. <h1>
 
 ## Сode example. <h1>
-```function multiply(a, b){
+```
+function multiply(a, b){
 return  a * b
 }
 ```
