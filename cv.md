@@ -98,6 +98,35 @@
       margin-bottom: 25px;
       line-height: 1.6;
     }
+
+    footer {
+      grid-column: 1 / -1;
+      background: linear-gradient(90deg, #941a14, #e35d24);
+      padding: 15px 30px;
+      color: white;
+      text-align: center;
+      border-top: 8px solid #eee;
+    }
+
+    footer p {
+      margin: 5px 0;
+      font-size: 0.9em;
+    }
+
+    footer a {
+      color: #3ba1ae;
+      text-decoration: none;
+    }
+
+    footer a:hover {
+      text-decoration: underline;
+    }
+
+    .course-image {
+      max-width: 100px;
+      margin: 10px auto;
+    }
+
   </style>
 </head>
 <body>
@@ -147,7 +176,15 @@ function multiply(a, b) {
         <h2>English Level</h2>
         <p>A2 Pre-intermediate</p>
       </div>
+
     </div>
+    <footer>
+      <p>July 12, 2025</p>
+      <p><a href="https://github.com/AngryFluffy" target="_blank">GitHub</a></p>
+      <a href="https://rs.school/courses/javascript-ru" target="_blank">
+        <img src="img/rs-school-logo.svg" alt="RS School JavaScript Course" class="course-image">
+      </a>
+    </footer>
   </div>
 </body>
 </html>
