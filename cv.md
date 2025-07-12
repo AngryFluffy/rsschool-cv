@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Serasd Bibchen CV</title>
+  <title>Sergei Boichenko CV</title>
   <style>
     body {
       margin: 0;
@@ -106,10 +106,10 @@
       <div class="photo">
         <!-- Место под фото -->
       </div>
-      <h2>Serasd Bibchen</h2>
-      <p>Discord: @anasdgry_fasdasdfy</p>
-      <p><a href="https://github.com/Angasday" target="_blank">My GitHub profile</a></p>
-      <p>boiasdasdasdqw1ei@gmail.com</p>
+      <h2>Sergei Boichenko</h2>
+      <p>Discord: @angry_fluffydfy</p>
+      <p><a href="https://github.com/AngryFluffy" target="_blank">My GitHub profile</a></p>
+      <p>boichenkosergei@gmail.com</p>
     </div>
     <div class="content">
       <h1>Welcome to My CV</h1>
@@ -135,7 +135,7 @@ function multiply(a, b) {
 
       <div class="section">
         <h2>CV Link</h2>
-        <p><a href="https://github.com/Aasdasdasdy/rsschool-cv/blob/gh-pages/cv.md" target="_blank">My CV</a></p>
+        <p><a href="https://github.com/AngryFluffy/rsschool-cv/blob/gh-pages/cv.md" target="_blank">My CV</a></p>
       </div>
 
       <div class="section">
