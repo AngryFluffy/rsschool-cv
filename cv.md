@@ -104,7 +104,7 @@
   <div class="container">
     <div class="sidebar">
       <div class="photo">
-        <!-- Место под фото -->
+        <img src="img/photo.jpg" alt="My photo" style="width: 100%; height: 100%; object-fit: cover; border-radius: 10px;">
       </div>
       <h2>Sergei Boichenko</h2>
       <p>Discord: @angry_fluffydfy</p>
